@@ -10,6 +10,7 @@ Adding color scheme on result, on master version of this app is flat,
 and I adding some red color to make it more readable
 
 ::
+
     wget -O speedtest-cli https://raw.githubusercontent.com/cwicaksono/speedtest-cli/master/speedtest.py
     chmod +x speedtest-cli
 
